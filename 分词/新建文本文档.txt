@@ -1,7 +1,0 @@
-abstract class
-这个类就是抽象类,抽象类必须要继承;
-final class 
-这个类不能被继承。
-当它们俩个同时修饰一个class 时，就会矛盾。
-报错：
-错误：非法的修饰符组合：abstract和final。
